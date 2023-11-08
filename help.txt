@@ -1,0 +1,3 @@
+avant de commencer veuillez installer json server:npm install -g json-server
+puis start it:json-server --watch data/db.json --port 3000
+puis npm start.
